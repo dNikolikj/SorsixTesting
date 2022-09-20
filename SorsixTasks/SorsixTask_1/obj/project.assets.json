@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Darko Nikolikj\\Desktop\\SorsixTasks\\SorsixTasks\\SorsixTask_1\\SorsixTask_1.csproj",
+      "projectUniqueName": "C:\\Users\\Darko Nikolikj\\Desktop\\SorsixTasks\\SorsixTesting\\SorsixTasks\\SorsixTask_1\\SorsixTask_1.csproj",
       "projectName": "SorsixTask_1",
-      "projectPath": "C:\\Users\\Darko Nikolikj\\Desktop\\SorsixTasks\\SorsixTasks\\SorsixTask_1\\SorsixTask_1.csproj",
+      "projectPath": "C:\\Users\\Darko Nikolikj\\Desktop\\SorsixTasks\\SorsixTesting\\SorsixTasks\\SorsixTask_1\\SorsixTask_1.csproj",
       "packagesPath": "C:\\Users\\Darko Nikolikj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Darko Nikolikj\\Desktop\\SorsixTasks\\SorsixTasks\\SorsixTask_1\\obj\\",
+      "outputPath": "C:\\Users\\Darko Nikolikj\\Desktop\\SorsixTasks\\SorsixTesting\\SorsixTasks\\SorsixTask_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Darko Nikolikj\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

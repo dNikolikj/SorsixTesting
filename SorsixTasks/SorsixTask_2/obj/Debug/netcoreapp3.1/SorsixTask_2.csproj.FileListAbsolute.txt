@@ -12,3 +12,17 @@ C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTasks\SorsixTask_2\obj\Debug\n
 C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTasks\SorsixTask_2\obj\Debug\netcoreapp3.1\SorsixTask_2.dll
 C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTasks\SorsixTask_2\obj\Debug\netcoreapp3.1\SorsixTask_2.pdb
 C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTasks\SorsixTask_2\obj\Debug\netcoreapp3.1\SorsixTask_2.genruntimeconfig.cache
+C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTesting\SorsixTasks\SorsixTask_2\bin\Debug\netcoreapp3.1\SorsixTask_2.exe
+C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTesting\SorsixTasks\SorsixTask_2\bin\Debug\netcoreapp3.1\SorsixTask_2.deps.json
+C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTesting\SorsixTasks\SorsixTask_2\bin\Debug\netcoreapp3.1\SorsixTask_2.runtimeconfig.json
+C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTesting\SorsixTasks\SorsixTask_2\bin\Debug\netcoreapp3.1\SorsixTask_2.runtimeconfig.dev.json
+C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTesting\SorsixTasks\SorsixTask_2\bin\Debug\netcoreapp3.1\SorsixTask_2.dll
+C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTesting\SorsixTasks\SorsixTask_2\bin\Debug\netcoreapp3.1\SorsixTask_2.pdb
+C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTesting\SorsixTasks\SorsixTask_2\obj\Debug\netcoreapp3.1\SorsixTask_2.csproj.AssemblyReference.cache
+C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTesting\SorsixTasks\SorsixTask_2\obj\Debug\netcoreapp3.1\SorsixTask_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTesting\SorsixTasks\SorsixTask_2\obj\Debug\netcoreapp3.1\SorsixTask_2.AssemblyInfoInputs.cache
+C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTesting\SorsixTasks\SorsixTask_2\obj\Debug\netcoreapp3.1\SorsixTask_2.AssemblyInfo.cs
+C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTesting\SorsixTasks\SorsixTask_2\obj\Debug\netcoreapp3.1\SorsixTask_2.csproj.CoreCompileInputs.cache
+C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTesting\SorsixTasks\SorsixTask_2\obj\Debug\netcoreapp3.1\SorsixTask_2.dll
+C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTesting\SorsixTasks\SorsixTask_2\obj\Debug\netcoreapp3.1\SorsixTask_2.pdb
+C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTesting\SorsixTasks\SorsixTask_2\obj\Debug\netcoreapp3.1\SorsixTask_2.genruntimeconfig.cache

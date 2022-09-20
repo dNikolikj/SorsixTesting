@@ -1,0 +1,14 @@
+C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTesting\SorsixTasks\SorsixTask_1\bin\Debug\netcoreapp3.1\SorsixTask_1.exe
+C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTesting\SorsixTasks\SorsixTask_1\bin\Debug\netcoreapp3.1\SorsixTask_1.deps.json
+C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTesting\SorsixTasks\SorsixTask_1\bin\Debug\netcoreapp3.1\SorsixTask_1.runtimeconfig.json
+C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTesting\SorsixTasks\SorsixTask_1\bin\Debug\netcoreapp3.1\SorsixTask_1.runtimeconfig.dev.json
+C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTesting\SorsixTasks\SorsixTask_1\bin\Debug\netcoreapp3.1\SorsixTask_1.dll
+C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTesting\SorsixTasks\SorsixTask_1\bin\Debug\netcoreapp3.1\SorsixTask_1.pdb
+C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTesting\SorsixTasks\SorsixTask_1\obj\Debug\netcoreapp3.1\SorsixTask_1.csproj.AssemblyReference.cache
+C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTesting\SorsixTasks\SorsixTask_1\obj\Debug\netcoreapp3.1\SorsixTask_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTesting\SorsixTasks\SorsixTask_1\obj\Debug\netcoreapp3.1\SorsixTask_1.AssemblyInfoInputs.cache
+C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTesting\SorsixTasks\SorsixTask_1\obj\Debug\netcoreapp3.1\SorsixTask_1.AssemblyInfo.cs
+C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTesting\SorsixTasks\SorsixTask_1\obj\Debug\netcoreapp3.1\SorsixTask_1.csproj.CoreCompileInputs.cache
+C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTesting\SorsixTasks\SorsixTask_1\obj\Debug\netcoreapp3.1\SorsixTask_1.dll
+C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTesting\SorsixTasks\SorsixTask_1\obj\Debug\netcoreapp3.1\SorsixTask_1.pdb
+C:\Users\Darko Nikolikj\Desktop\SorsixTasks\SorsixTesting\SorsixTasks\SorsixTask_1\obj\Debug\netcoreapp3.1\SorsixTask_1.genruntimeconfig.cache
