@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32901.82
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SorsixTask_1", "SorsixTask_1\SorsixTask_1.csproj", "{E90F645C-46A8-4611-AC51-BFA428D08C26}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SorsixTask_1", "SorsixTask_1\SorsixTask_1.csproj", "{E90F645C-46A8-4611-AC51-BFA428D08C26}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SorsixTask_2", "SorsixTask_2\SorsixTask_2.csproj", "{84DA4F2E-B47D-4781-9815-0E199C7B8DD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SorsixTask_2", "SorsixTask_2\SorsixTask_2.csproj", "{84DA4F2E-B47D-4781-9815-0E199C7B8DD4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
